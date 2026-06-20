@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: e6d5b3942364eab4f97c8046a4354258
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ancient Buddha Petroglyph Stone
+    second: {fileID: 2100000, guid: 10e2f02ec3d324d4a8107ef53b277e54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Geometric Pattern Embossed Gold
+    second: {fileID: 2100000, guid: 8f02e424b17a81844b9f9ae687d1ae76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold Foil
+    second: {fileID: 2100000, guid: fb341eb68f9f0cd41893eacce146e061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 5d112a5e6711b31479873c49b56876a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medieval Carved Stone Pattern
+    second: {fileID: 2100000, guid: d0ac34c999720c74cb8d630cdd4c9850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plain Red Texture
+    second: {fileID: 2100000, guid: 170e511d01795f34692d119355148b9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sand_Stone.001
+    second: {fileID: 2100000, guid: 32d27f3c210e32a49a590c5c8b80d3a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone
+    second: {fileID: 2100000, guid: fa52cc84ccac0594e9f63725694f0a16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White marble
+    second: {fileID: 2100000, guid: 869ed0eb69e533842ad5ee4718b75512, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nandiBull_LOD0_u0_v0
+    second: {fileID: 2100000, guid: 4c67e321b65ebf944bcede5b17e330ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nandiBull_LOD0_u1_v0
+    second: {fileID: 2100000, guid: b8281d469f8574f4f880eb55318fb5e8, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ancient Buddha Petroglyph Stone_Alpha
+    second: {fileID: 2800000, guid: 930c7c514c0d096478d096c2f9bd5e24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ancient Buddha Petroglyph Stone_BaseColor
+    second: {fileID: 2800000, guid: 663f02369f294964886174997c535d89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ancient Buddha Petroglyph Stone_Emissive
+    second: {fileID: 2800000, guid: 79200931ac2e49542a1db6bbfa52b04c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ancient Buddha Petroglyph Stone_Metallic
+    second: {fileID: 2800000, guid: 4cfe29b055ee5664792c712a7ee4decd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ancient Buddha Petroglyph Stone_Normal
+    second: {fileID: 2800000, guid: f45b42e1dca6b764fb03c2ba41644475, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ancient Buddha Petroglyph Stone_Roughness
+    second: {fileID: 2800000, guid: 04e2e1d6906f41c4d80069f81c2ed29b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Geometric Pattern Embossed Gold_Alpha
+    second: {fileID: 2800000, guid: e8dcaec3a8dd42449b7f38a52fd94744, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Geometric Pattern Embossed Gold_BaseColor
+    second: {fileID: 2800000, guid: 259d444c29d25914b8a048c66b0036bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Geometric Pattern Embossed Gold_Emissive
+    second: {fileID: 2800000, guid: f3e7dbfd24e875a4a9819432e5a33d3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Geometric Pattern Embossed Gold_Metallic
+    second: {fileID: 2800000, guid: 3f50925544aa7924c8c82bcb66829087, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Geometric Pattern Embossed Gold_Normal
+    second: {fileID: 2800000, guid: 37c347e04f7447746a50cb3ac4c8706f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Geometric Pattern Embossed Gold_Roughness
+    second: {fileID: 2800000, guid: 6941a1e87f3d2714ea0bd056d4e375e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gold Foil_Alpha
+    second: {fileID: 2800000, guid: 4b97ef54d9736834bba823309ce8f58d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gold Foil_BaseColor
+    second: {fileID: 2800000, guid: 2f24476f43876204e9c06e541612cdea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gold Foil_Emissive
+    second: {fileID: 2800000, guid: f11b5df700229134eade2e4a1e337c54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gold Foil_Metallic
+    second: {fileID: 2800000, guid: 36b1778878630de4aa0d25969f9000a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gold Foil_Normal
+    second: {fileID: 2800000, guid: f0d58be2a1abf844cbed608197778cff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gold Foil_Roughness
+    second: {fileID: 2800000, guid: c0238c33b6d49004bae7463834f2fae4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Medieval Carved Stone Pattern_Alpha
+    second: {fileID: 2800000, guid: e3d34683266491841ab3257f70bcf5ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Medieval Carved Stone Pattern_BaseColor
+    second: {fileID: 2800000, guid: f97df4b4210affd4e9bd40eff3964054, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Medieval Carved Stone Pattern_Emissive
+    second: {fileID: 2800000, guid: 5e00116c856851a4ba2020da7a96639f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Medieval Carved Stone Pattern_Metallic
+    second: {fileID: 2800000, guid: 6c416e3a70d3f2c4da1226d91184149c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Medieval Carved Stone Pattern_Normal
+    second: {fileID: 2800000, guid: ea31cfc1c62e5204c867e490ad557c12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Medieval Carved Stone Pattern_Roughness
+    second: {fileID: 2800000, guid: 5290b204e1d80644095f1c5f8d1a5014, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plain_Red_Texture_1417060_col
+    second: {fileID: 2800000, guid: fd611bb75d0cc5144b8047b009e2e509, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plain_Red_Texture_1417060_met
+    second: {fileID: 2800000, guid: 2d04f507d1bd86849bf4ee1dacfbeff3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plain_Red_Texture_1417060_nrm
+    second: {fileID: 2800000, guid: d3961e3145faa8c489eb2d99d9e8f06f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plain_Red_Texture_1417060_rough
+    second: {fileID: 2800000, guid: ece98db34e9488f40963281becd8976d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: marble_basecolor_diffuse
+    second: {fileID: 2800000, guid: 69110f9e23bbdbb45a79fa4a0710a42f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: marble_normal_opengl
+    second: {fileID: 2800000, guid: 8eb3076f3c857494fbb9168aa2097ff8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stone-93_smooth
+    second: {fileID: 2800000, guid: c0534f91b830fad4499b8890c0c512bb, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,39 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Visual Studio
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Unity cache
+MemoryCaptures/
+Recordings/
+
+# Auto-generated
+sysinfo.txt
+
+# Android build files
+.gradle/
+*.apk
+*.aab
+
+# Temporary folders
+.utmp/
+
+# Unity package cache
+Packages/packages-lock.json
+
+# Large files excluded from GitHub
+Packages/com.ptc.vuforia.engine-*.tgz
+Assets/FBX/MAINTEMPLEfbx.fbx
